@@ -8,6 +8,26 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://trivialdata.com" # the base hostname & protocol for your site
 twitter_username: TrivialData
 github_username:  TrivialDataOrg
+paginate: 3
+permalink: /:title
 
 # Build settings
 markdown: kramdown
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Guil Hernandez
+      layout: "post"
+      category: conferences
+      comments: true
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
