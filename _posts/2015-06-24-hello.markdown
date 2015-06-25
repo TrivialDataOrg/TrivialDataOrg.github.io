@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hello"
+date:   2015-06-24 21:05:27
+categories: 'trivial data'
+---
+This site serves as the home for Trivial Data -- a consulting partnership focused on Social Practice, Art, Design, and Technology. In the coming weeks you'll be able to see more about our past projects [Joyography](/joyography/), [Affirmation Hotline](/affirmation-hotline/), and [Are You Your Work](/are-you-your-work/).
+
+In time, all of our results and figures will be posted to github for you to manipulate. But don't worry. They'll all be trivial.

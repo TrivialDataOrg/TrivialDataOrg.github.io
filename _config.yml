@@ -3,7 +3,7 @@ title: TrivialData.org
 email: info@trivialdata.org
 description: > # this means to ignore newlines until "baseurl:"
   Trivial Data is a consulting partnership that focuses on Social Practice,
-  Art, and Design.
+  Art, Design, and Technology.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://trivialdata.com" # the base hostname & protocol for your site
 twitter_username: TrivialData
