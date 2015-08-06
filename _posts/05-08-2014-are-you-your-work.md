@@ -6,7 +6,7 @@ permalink: /are-you-your-work/
 modal-id: 3
 date: 2013-05-14
 img: WebsiteScreencapture.png
-thumbnail: AYYW.jpg
+thumbnail: AYYW.JPG
 alt: Are You Your Work?
 project-date: May 2014
 client: Open Engagement
