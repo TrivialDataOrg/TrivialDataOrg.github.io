@@ -18,13 +18,15 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://trivialdatasender.herokuapp.com/send",
+                url: "http://trivialdatasender.herokuapp.com/send",
                 type: "POST",
                 data: {
                     name: name,
                     email: email,
                     message: message
                 },
+                dataType: 'json',
+                encode: true,
                 cache: false,
                 success: function() {
                     // Success message
