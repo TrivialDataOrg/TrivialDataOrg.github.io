@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Are You Your Work?
 subtitle: Public Engagement, Javascript, NoSQL
 permalink: /are-you-your-work/

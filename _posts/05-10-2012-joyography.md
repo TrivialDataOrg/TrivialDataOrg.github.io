@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: page
 title: Joyography
 subtitle: Public Engagement, Geographic Data Science
 permalink: /joyography/
 modal-id: 1
 date: 2013-05-12
 img: WebsiteScreencapture.png
-thumbnail: AffHot300.jpg
+thumbnail: joyography2.JPG
 alt: Joyography
 project-date: May 2012
 client: Open Engagement

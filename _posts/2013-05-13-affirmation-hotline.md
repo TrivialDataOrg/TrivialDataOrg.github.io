@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Affirmation Hotline
 subtitle: Web Application Development
 permalink: /affirmation-hotline/
