@@ -11,7 +11,7 @@ alt: Affirmation Hotline
 project-date: May 2013
 client: Open Engagement
 category: Web Development, Social Practice Are
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Affirmation Hotline was developed for Open Engagement in 2013. It is quite simply a telephone hotline that delivers nice words into your ear. The project was a Python application built with Flask and the Twilio API.
 ---
 
 Affirmation Hotline was developed for Open Engagement in 2013. It is quite simply a telephone hotline that delivers nice words into your ear.
